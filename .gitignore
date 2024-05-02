@@ -1,14 +1,10 @@
 # Don't commit binaries
-*.a
 *.asm
 *.dll
 *.dylib
 *.exe
 *.lib
 *.out
-*.o
-*.so
-*.so.*
 
 # Exclude editor config
 .vscode/
@@ -16,8 +12,6 @@
 
 # Exclude temporary folders
 *.egg-info/
-build/
-build_cmake/
 
 # Exclude macOS folder attributes
 .DS_Store

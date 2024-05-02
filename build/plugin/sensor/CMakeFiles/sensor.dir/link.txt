@@ -1,0 +1,2 @@
+/Users/ryanwinstead/Projects/emsdk/upstream/emscripten/emar qc ../../lib/libsensor.a CMakeFiles/sensor.dir/sensor.cc.o CMakeFiles/sensor.dir/touch_grid.cc.o
+/Users/ryanwinstead/Projects/emsdk/upstream/emscripten/emranlib ../../lib/libsensor.a

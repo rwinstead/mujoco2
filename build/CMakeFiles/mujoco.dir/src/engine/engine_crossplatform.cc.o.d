@@ -1,0 +1,28 @@
+CMakeFiles/mujoco.dir/src/engine/engine_crossplatform.cc.o: \
+  /Users/ryanwinstead/Projects/mujoco-3.1.1/src/engine/engine_crossplatform.cc \
+  /Users/ryanwinstead/Projects/mujoco-3.1.1/src/engine/engine_crossplatform.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cstddef \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/pthread.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/version \
+  /Users/ryanwinstead/Projects/emsdk/upstream/lib/clang/13.0.0/include/stddef.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/lib/clang/13.0.0/include/__stddef_max_align_t.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__nullptr \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/type_traits \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cstdlib \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/stdlib.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/compat/math.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/math.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/math.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/limits \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__undef_macros \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/strings.h \
+  /Users/ryanwinstead/Projects/mujoco-3.1.1/src/engine/sort_r.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/string.h \
+  /Users/ryanwinstead/Projects/emsdk/upstream/emscripten/cache/sysroot/include/string.h
